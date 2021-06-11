@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id">toolbar</item>
+    <item name="editText1" type="id">text1</item>
+    <item name="editText2" type="id">text2</item>
+    <item name="editText3" type="id">text3</item>
+    <item name="editText4" type="id">text4</item>
+    <item name="editText5" type="id">text5</item>
+    <item name="fabCreate" type="id">fabCreate</item>
+    <item name="fabAdd" type="id">fabAdd</item>
+    <item name="lvData" type="id">Data</item>
+    <item name="textView1" type="id">textview1</item>
+    <item name="textView2" type="id">textview2</item>
+    <item name="textView3" type="id">textview3</item>
+    <item name="textView4" type="id">textview4</item>
+    <item name="textView5" type="id">textview5</item>
+    <item name="fabUpdate" type="id">fabUpdate</item>
+</resources>
